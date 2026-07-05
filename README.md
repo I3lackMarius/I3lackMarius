@@ -2,7 +2,7 @@
 <h3 align="center">I’m a self-made developer, planning and building databases, user interfaces, and websites</h3>
 
 
-- 🌐 Personal website [l3lackmarius](https://www.l3lackmarius.net/)
+- 🌐 Personal website [negrumarius](https://www.negrumarius.com/)
 
 - 👨🏻‍💼 Freelancer
 
